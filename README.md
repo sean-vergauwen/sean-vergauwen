@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @sean-vr93
+- 👋 Hi, I'm Sean Vergauwen
+- Just an average compsci student lmao
 
