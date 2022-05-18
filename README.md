@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Sean Vergauwen
-- Just an average compsci student lmao
+- I'm just an average compsci student lmao
 
