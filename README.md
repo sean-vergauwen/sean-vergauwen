@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sean Vergauwen</h1>
 <h3 align="center">I'm just an average compsci student trying to make my way into the universe.</h3>
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **sean.vr93@gmail.com**
 
