@@ -5,6 +5,8 @@
 
 - 📫 Reach me at : **sean.vr93@gmail.com**
 
+- Most of my repositories are private.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sean_vr93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sean_vr93" height="30" width="40" /></a>
