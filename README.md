@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sean Vergauwen</h1>
 <h3 align="center">I'm just an average compsci student trying to make my way into the universe.</h3>
 
-- 🌱 I’m currently learning **ReactJS**
-
 - 📫 Reach me at : **sean.vr93@gmail.com**
-
-- Most of my repositories are private.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
